@@ -1,0 +1,12 @@
+{
+    "name": "automation_practice",
+    "version": "0.0.0",
+    "description": "Automation practice tasks",
+    "private": true,
+    "devDependencies": {
+        "cypress": "^12.10.0"
+    },
+    "dependencies": {
+        "cypress-real-events": "^1.7.6"
+    }
+}
